@@ -5,3 +5,4 @@ def factorial(n):
         return n * factorial(n - 1)
       result = factorial(5)
 print("Factorial of 5 is:", result)
+
